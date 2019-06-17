@@ -7,4 +7,15 @@
 	linea de caracteres.
 
 
+¿Que hace la función atoi?
+	La función atoi recive como parametro un argumento y lo transforma en un int 
+
+Ademas de atoi existen otras funciones que permitan convertir cadenas de caracteres a numeros reales ¿Cuales?
+	atoi(str) string  = int
+	atof(str) string  = double
+	atol(str) string  = integer
+
+Existen funciones que convierten valores numericos a cadenas de caracteres ¿Cuales?
+	itoa permite transformar un numero en una cadena de string
+	sprintf()
 
