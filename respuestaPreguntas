@@ -1,0 +1,10 @@
+¿Que hacen los parametros argc y argv?
+	argc Cuenta los argumentos incluyendo el nombre del archivo.
+	argv[] Es un array de cadenas que guarda los argumentos.
+
+¿Como se usa el programa?
+	Si se encuentra la palabra "debug" imprime un mensaje y si encuentra la palabra "-file" imprimira la siguiente
+	linea de caracteres.
+
+
+
